@@ -19,7 +19,11 @@ A modern serverless blog application built with AWS services (S3, Lambda, Dynamo
 - `api.js`, `app.js`, `posts.js`, `comments.js`, `create-post.js`: JavaScript logic
 - `styles.css`: Custom styles
 
-Website View-
+Website View
+HOME PAGE:
+<img width="1919" height="904" alt="Screenshot 2025-08-16 111227" src="https://github.com/user-attachments/assets/4a8b7417-2d3e-4a4f-95dd-3caa394d5458" />
+
+Reading Posts:
 <img width="1919" height="923" alt="image" src="https://github.com/user-attachments/assets/6687e2c5-bbfe-4dd1-8344-94ca94c602d3" />
 
 ## Contributing
@@ -27,4 +31,5 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 See [LICENSE](LICENSE).
+
 
